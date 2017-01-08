@@ -1,0 +1,10 @@
+* Latex Coffee Stains
+Originally created by [[http://hanno-rein.de/archives/349]], this is various latex libraries to produce coffee stains, similar to [[https://github.com/bae43/LobLib/]].
+** Coffee
+The original coffee latex package.
+** Coffee2 
+Improved version that works with pdflatex by Evan Sultanik. 
+** Coffee3
+Allows for scaling, rotating, and changing the opacity of the coffee stain, by Professor Luis Randez.
+** Coffee4
+Allows for off center coffee stains, by Adrian Robson. 
