@@ -1,4 +1,4 @@
-* Latex Coffee Stains
+* Latex Coffee Stains ☕☕☕
 Originally created by [[http://hanno-rein.de/archives/349]], this is various latex libraries to produce coffee stains, similar to [[https://github.com/bae43/LobLib/]].
 * Usage: 
 - https://arxiv.org/abs/0812.3367
